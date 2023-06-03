@@ -1,0 +1,16 @@
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tribute-info {
+    margin-left: 8%;
+}
