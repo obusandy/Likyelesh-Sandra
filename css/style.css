@@ -14,3 +14,21 @@
 #tribute-info {
     margin-left: 8%;
 }
+
+#title {
+    align-items: center;
+    margin-left: 35%;
+}
+
+#sub-title {
+    align-items: center;
+    margin-left: 35%;
+}
+
+#main {
+    background-color: lightgray;
+}
+
+#img-div {
+    background-color: white;
+}
